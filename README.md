@@ -32,7 +32,7 @@ Try [Thoughts-Storage](https://thoughts-storage.netlify.app/) for free.
 
 ## React npm package
 
-#### Are you a React developer and you need a form for to application? Install thoughts storage form npm package to display your form and track the responses on TS website.
+#### Are you a React developer and you need a form to application? Install thoughts storage form npm package to display your form on your web page and track the responses on TS website.
 
 - Create form on [Thoughts-Storage](https://thoughts-storage.netlify.app/).
 
