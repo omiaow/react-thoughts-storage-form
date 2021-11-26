@@ -72,8 +72,6 @@ function App() {
 export default App;
 ```
 
-- That's it!
-
 ### Available prop(s)
 
 - form (JSON type) - JSON of your form.
