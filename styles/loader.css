@@ -1,6 +1,6 @@
 .loader-page {
   width: 100%;
-  height: calc(100vh - 60px); /* subtract navigation bar */
+  height: 100vh; /* subtract navigation bar */
   background-color: #1f2933;
   float: left;
 }

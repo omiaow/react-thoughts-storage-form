@@ -280,7 +280,7 @@ var TSForm = function TSForm(props) {
   if (form && !loading) {
     return /*#__PURE__*/_react["default"].createElement("div", {
       className: "new-form"
-    }, !submitted ? renderListOfForms(form.listOfForms) : /*#__PURE__*/_react["default"].createElement("div", {
+    }, Error(error, setError), !submitted ? renderListOfForms(form.listOfForms) : /*#__PURE__*/_react["default"].createElement("div", {
       className: "message"
     }, "Thank you for response! ", /*#__PURE__*/_react["default"].createElement("br", null), /*#__PURE__*/_react["default"].createElement("u", {
       onClick: function onClick() {

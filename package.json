@@ -1,6 +1,6 @@
 {
   "name": "thoughts-storage-form",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "thoughts storage form package for react",
   "main": "index.js",
   "scripts": {

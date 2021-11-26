@@ -1,5 +1,4 @@
 .new-form {
-  padding: 30px 0;
   float: left;
   width: 100%;
   min-height: 100vh;
@@ -11,6 +10,7 @@
 }
 
 .error {
+  margin: 35px 0;
   float: left;
   color: white;
   min-height: 25px;
@@ -26,9 +26,14 @@
 
 /* Desktop devices */
 @media only screen and (min-width: 600px) {
-  .error, .input-area {
+  .error {
     width: 35%;
-    margin: 0 32.5%;
+    margin: 35px 32.5%;
+  }
+
+  .input-area {
+    width: 35%;
+    margin: -35px 32.5%;
   }
 }
 
@@ -85,7 +90,7 @@
   min-height: 37px;
   background-color: #1f2933;
   color: white;
-  margin: 35vh 0 15px 0;
+  margin: 27vh 0 15px 0;
   border-radius: 5px;
   font-size: 30px;
   line-height: 37px;
