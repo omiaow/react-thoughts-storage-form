@@ -50,7 +50,7 @@ function App() {
   // JSON of your form.
   let jsonForm = {
     "_id": "619e88ec1876b81ea13bfba6",
-    "name": "Feedback",
+    "name": "Example",
     "listOfForms": [
       {
         "isImportant": false,
