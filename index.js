@@ -277,7 +277,7 @@ var TSForm = function TSForm(props) {
     };
   }();
 
-  if (!loading) {
+  if (form && !loading) {
     return /*#__PURE__*/_react["default"].createElement("div", {
       className: "new-form"
     }, !submitted ? renderListOfForms(form.listOfForms) : /*#__PURE__*/_react["default"].createElement("div", {

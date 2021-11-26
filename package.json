@@ -1,10 +1,10 @@
 {
   "name": "thoughts-storage-form",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "thoughts storage form package for react",
   "main": "index.js",
   "scripts": {
-    "build": "npx babel src --out-file indes.js",
+    "build": "npx babel src --out-file index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

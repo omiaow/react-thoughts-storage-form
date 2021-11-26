@@ -40,8 +40,9 @@ Try [Thoughts-Storage](https://thoughts-storage.netlify.app/) for free.
 
 - Install package: ```npm i thoughts-storage-form```.
 
-- Add TSForm DOM on your web page with ```form``` prop which is JSON of your form:
+- Add TSForm DOM on your react web page with ```form``` prop which is JSON of your form:
 ```
+import React from "react";
 import TSForm from "thoughts-storage-form";
 
 function App() {
