@@ -76,6 +76,10 @@ export default App;
 
 - form (JSON type) - JSON of your form.
 
+### Check life example
+
+- At the bottom of [SmartJourney](https://smartjourney.netlify.app/) website you can see the Feedback created using this npm package.
+
 ## Repositories
 
 - **[Front-end](https://github.com/omiaow/thoughts-storage-front-end)** - Implemented on React.
