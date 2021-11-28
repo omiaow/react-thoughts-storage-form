@@ -80,6 +80,8 @@ export default App;
 
 - At the bottom of [SmartJourney](https://smartjourney.netlify.app/) website you can see the Feedback created using this npm package.
 
+- [Thoughts-Storage's](https://thoughts-storage.netlify.app/Form?id=61a124e5ab787815d9217c4e) Feedback as one page.
+
 ## Repositories
 
 - **[Front-end](https://github.com/omiaow/thoughts-storage-front-end)** - Implemented on React.
