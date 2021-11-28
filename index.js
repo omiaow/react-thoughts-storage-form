@@ -284,7 +284,7 @@ var TSForm = function TSForm(props) {
       className: "message"
     }, "Thank you for response! ", /*#__PURE__*/_react["default"].createElement("br", null), /*#__PURE__*/_react["default"].createElement("u", {
       onClick: function onClick() {
-        return window.open("https://github.com/omiaow/thoughts-storage-front-end", "_blank");
+        return window.open("https://thoughts-storage.netlify.app/", "_blank");
       }
     }, "Powered by Thoughts Storage.")), Error(error, setError));
   } else return /*#__PURE__*/_react["default"].createElement(Loader, null);
